@@ -1,4 +1,4 @@
-module github.com/thealexg/go-web3
+module github.com/chenzhijie/go-web3
 
 go 1.14
 
